@@ -4,21 +4,6 @@
 **Competition:** RBIH National Financial Products Challenge (NFPC) Phase 2
 **Final Private Result:** AUC-ROC `0.999833` | F1 `0.971609` | Temporal IoU `0.6879` | RH_Avoidance_1: 0.9985 | RH_Avoidance_2: 1.0000 | RH_Avoidance_3: 1.0000 | RH_Avoidance_4: 0.9947 | RH_Avoidance_5: 1.0000 | RH_Avoidance_6: 1.0000 | RH_Avoidance_7: 0.8571
 
----
-
-## Repository Structure
-
-```
-
-├── Python Notebook
-│   └── HxH_v4.ipynb		  # Contains the whole pipelinecode
-│  	└── visualizations/       # All visualizations
-└── README.md
-└── MODELS.md
-```
-
----
-
 ## 1. Environment Setup
 
 ### Python Version
